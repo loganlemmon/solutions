@@ -44,7 +44,7 @@
 	$deliv5 = new Deliverable(new DateTime('2019/06/19'), 5);
 	$deliv6 = new Deliverable(new DateTime('2019/11/07'), 3);
 
-	//and add them to an object
+	//and add them to an array
 
 	$deliverables = [$deliv1, $deliv2, $deliv3, $deliv4, $deliv5, $deliv6];
 

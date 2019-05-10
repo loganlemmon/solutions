@@ -21,7 +21,7 @@
 		}
 	}
 
-	//our function accepts one parameter and stores the two array columns we're interested
+	//our function accepts one argument and stores the two array columns we're interested
 	//in sorting by, then uses array_multisort to sort first by the delivery date column in 
 	//ascending order, followed the rating column in descending.
 
